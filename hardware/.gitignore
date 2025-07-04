@@ -1,0 +1,70 @@
+# KiCad Backup Files
+*-backups/
+*-cache.lib
+*-cache.dcm
+*-rescue.lib
+*-rescue.dcm
+*-save.pro
+*-save.kicad_pcb
+*-save.kicad_sch
+
+# Auto-save and temporary files
+_autosave-*
+*.tmp
+*.bak
+*.bck
+*~
+
+# KiCad Cache and Library Files
+fp-info-cache
+sym-lib-table
+fp-lib-table
+
+# KiCad Project Specific
+*.kicad_prl
+
+# Manufacturing Outputs (uncomment if you want to ignore these)
+# gerbers/
+# gerbers.zip
+# bom/
+# *.pos
+# *.csv
+
+# 3D Model Cache
+*.wrl.cache
+
+# Python Bytecode (if using KiCad Python scripting)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log Files
+*.log
+
+# Compressed Files (unless specifically needed)
+*.zip
+*.rar
+*.7z
+
+# Temporary and Build Directories
+build/
+dist/
+temp/ 
+
+*.lck
