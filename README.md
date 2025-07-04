@@ -1,3 +1,5 @@
+[![Build Firmware](https://github.com/atomic14/just-vibe-it/actions/workflows/build-firmware.yml/badge.svg)](https://github.com/atomic14/just-vibe-it/actions/workflows/build-firmware.yml)
+
 # Vibetastic - Single Key Keyboard
 
 [![Vibetastic Demo](https://img.youtube.com/vi/SV0bM1FkdLY/maxresdefault.jpg)](https://youtu.be/SV0bM1FkdLY)
